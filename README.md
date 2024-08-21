@@ -1,50 +1,11 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Screenshot 2024-08-21 at 10 02 52](https://github.com/user-attachments/assets/b47c5d60-6282-4480-8dd0-1cab8e7ce1f7)
+![Screenshot 2024-08-21 at 10 03 03](https://github.com/user-attachments/assets/648e8dd9-7fd6-4b10-bfba-6ff9595080c6)
+![Screenshot 2024-08-21 at 10 03 13](https://github.com/user-attachments/assets/969bda80-6e30-487c-a6f3-d8b55a0c296d)
+![Screenshot 2024-08-21 at 10 03 30](https://github.com/user-attachments/assets/c3551545-5e6d-45e5-bb96-ec0c65ea5431)
+![Screenshot 2024-08-21 at 10 03 45](https://github.com/user-attachments/assets/00827702-50f5-4eaf-867b-e9be6c8637b9)
+![Screenshot 2024-08-21 at 10 03 51](https://github.com/user-attachments/assets/6ee6e8ab-9af0-4661-9294-1dde125e01d9)
+![Screenshot 2024-08-21 at 10 04 00](https://github.com/user-attachments/assets/68eb8131-134f-4af1-a9ae-e802706dded6)
+![Screenshot 2024-08-21 at 10 04 18](https://github.com/user-attachments/assets/523d180c-51b7-4216-ac5b-50507b57c0f6)
+![Screenshot 2024-08-21 at 10 06 01](https://github.com/user-attachments/assets/d6268205-1d2e-4371-93f4-73e981d37fae)
+![Screenshot 2024-08-21 at 10 06 17](https://github.com/user-attachments/assets/6da42db1-21b4-44a0-8740-4c3a008ffd65)
+![Screenshot 2024-08-21 at 10 06 24](https://github.com/user-attachments/assets/e186b4ce-bd1f-451e-8c44-b509f77f3bd5)
